@@ -1,4 +1,4 @@
-[![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif)]
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif?w=1024)
 <h1 align="center">Hi 👋, I'm Catharin Nivitha</h1>
 <h3 align="center">I'm a Data Science student with a passion for Problem Solving</h3>
 <img align="right" alt="Data Scientist" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
