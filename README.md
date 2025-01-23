@@ -10,4 +10,4 @@ I work with **Python**, **Java**, **JavaScript**, **SQL**, and use tools like **
 
 ## Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=catharin-05&show_icons=true&locale=en&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=catharin-05)
+
