@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, NLP and Speech Recognition**
 
-- 👯 I’m looking to collaborate on **projects related to NLP,AI and M**
+- 👯 I’m looking to collaborate on **projects related to NLP,AI and ML**
 
 - 💬 Ask me about **Python, Natural Language Processing and Machine Learning**
 
