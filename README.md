@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catharin-05&label=Profile%20views&color=0e75b6&style=flat" alt="catharin-05" /> </p>
 
-- 🔭 I’m currently working on **I’m currently working on TextBookQA, model that answers queries based on any given textbook.**
+- 🔭 I’m currently working on **I’m currently working on a Music Search Model, that queries music based on hums**
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, NLP and Speech Recognition**
 
