@@ -1,7 +1,7 @@
-![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif?w=1024)
+
 <h1 align="center">Hi 👋, I'm Catharin Nivitha</h1>
 <h3 align="center">I'm a Data Science student with a passion for Problem Solving</h3>
-<img align="right" alt="Data Scientist" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catharin-05&label=Profile%20views&color=0e75b6&style=flat" alt="catharin-05" /> </p>
 
