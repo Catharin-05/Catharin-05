@@ -1,34 +1,46 @@
 ## About me
-I work on building systems that convert visual data into structured, measurable, and usable representations.
- 
-My focus lies in applied computer vision problems where model outputs need to go beyond detection and become actionable—such as spatial understanding, dimension estimation, and constraint-aware scene interpretation.
- 
-Recently, I’ve been working on human body reconstruction from single images, with an emphasis on recovering accurate shape and real-world measurements. This has applications in areas like fashion technology, sizing systems, and healthcare, where geometric consistency and measurement reliability matter as much as visual quality.
- 
-In my current role, I design end-to-end pipelines that combine object detection, spatial reasoning, and rule-based optimization to transform floorplans into structured layouts, product mappings, and automated costing systems.
- 
+
+I build AI systems that turn unstructured data into structured, actionable information.
+
+My work spans **Generative AI, multimodal AI, computer vision, and backend systems**, with a focus on building end-to-end solutions that combine models, reasoning, data processing, and APIs into usable products.
+
+I have worked on AI-based products involving **RAG systems, Vision-Language Models, object detection, OCR, spatial reasoning, and automated decision pipelines**. I’m particularly interested in systems where AI models need to interact with tools, data, and downstream services to complete practical tasks.
+
+In my current and previous projects, I have worked across the full AI development lifecycle — from model development and experimentation to **API development, inference optimization, cloud deployment, and production integration**.
+
 Technically, I work across:
- 
- Computer Vision (detection, segmentation, depth, VLMs) 
- Spatial reasoning and geometric inference 
- Visual-to-structured system design 
- RAG-based systems and backend deployment (AWS, Docker) 
- 
+
+- Generative AI, LLMs, RAG, and Agentic AI
+- Vision-Language Models and Computer Vision
+- AI pipelines, tool calling, and multimodal systems
+- Python, FastAPI, REST APIs, and backend development
+- AWS, Docker, CI/CD, and ML deployment
+
 I’m particularly interested in problems at the intersection of:
- 
- vision + geometry 
- 2D → structured / semi-3D understanding 
- human-centric measurement systems 
- 
-I’m looking to work on challenging applied vision problems in environments where precision, system design, and real-world constraints are critical.
-## Connect with me:
-- [LinkedIn](www.linkedin.com/in/catharin)
+
+- **AI + multimodal understanding**
+- **LLMs + tools + real-world data**
+- **Computer Vision + Generative AI**
+- **AI systems + backend engineering**
+
+I’m looking to work on challenging AI problems where research, engineering, and product development come together.
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/catharin)
+- [GitHub](https://github.com/Catharin-05)
 - [Kaggle](https://kaggle.com/catharinnivithap)
 - [HackerRank](https://www.hackerrank.com/nivithacatharin)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/nivithace3ad)
 
-## Technologies:
-**ML/AI**: PyTorch, ONNX Runtime, Quantization (INT4), YOLOv10, VLMs (Phi-3.5/Qwen), Intent Routing, RAG, and Model Optimization.
-**3D & Spatial**: 3D Systems, Spatial Computing, OpenCV, Multi-view Geometry, Real-time Tracking, and Edge-AI Deployment.
+## Technologies
 
+**Generative AI & LLMs:** LLMs, RAG, Agentic AI, Tool Calling, Embeddings, FAISS, Vector Databases, Gemini, LLaMA, Qwen, LLaVA, VLMs
 
+**AI & Machine Learning:** PyTorch, TensorFlow, ONNX Runtime, Model Fine-tuning, Model Optimization, Quantization
+
+**Computer Vision:** YOLO, DETR, Object Detection, Segmentation, OCR, Depth Estimation, Pose Estimation, Multi-Object Tracking, OpenCV
+
+**Backend & MLOps:** Python, FastAPI, REST APIs, Docker, AWS, GitHub Actions, CI/CD, W&B
+
+**3D & Spatial AI:** 3D Reconstruction, Spatial Computing, Multi-view Geometry, Camera Calibration, Open3D
